@@ -199,5 +199,5 @@ while True:
 
     else:
 
-        print("Invalid choice. Please try again.")1
+        print("Invalid choice. Please try again.")
         
